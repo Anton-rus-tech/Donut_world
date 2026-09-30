@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: red
+}
+
+img {
+   display: block;
+   margin: 0 auto;
+   cursor: pointer
+}
+
+p {
+    text-align: center;
+    color: red
+}
